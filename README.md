@@ -5,7 +5,7 @@
 <h1> OsTicket - Ticket Lifecycle Example </h1> 
 
 <h2> Description </h2>
-A ticket lifecycle is the process a support request goes through from start to finish. First, a user submits their issue, and it gets assigned to the right team to handle. The team looks into the problem, communicates with the user if needed, and works on solving it. Once the issue is fixed, the ticket is closed, and the user is informed of the resolution. This helps ensure the problem is addressed quickly and effectively. 
+A ticket lifecycle is the process a support request goes through from start to finish. First, a user submits their issue, and it gets assigned to the right team to handle. The team looks into the problem, communicates with the user if needed, and works on solving it. Once the issue is fixed, the ticket is closed, and the user is informed of the resolution. Through osTicket, it helps ensure the problem is addressed quickly and effectively. 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -59,10 +59,15 @@ Agents can add internal notes for other staff members. Work the ticket to comple
 <img width="489" alt="Screen Shot 2025-02-20 at 11 02 28 PM" src="https://github.com/user-attachments/assets/c97c3bba-898e-48af-b0db-6fde44c374fc" />
 
 <p>
-Provide a clear resolution such as instructions, fixes, confirmation of issue resolution. Confirm with the user that the problem is solved. Ticket will be closed. 
+Provide a clear resolution such as instructions, fixes, confirmation of issue resolution. Confirm with the user that the problem is solved. 
 </p>
 <<img width="651" alt="Screen Shot 2025-02-20 at 11 09 27 PM" src="https://github.com/user-attachments/assets/568b6543-f7f6-4f76-9d79-ec2fc358909c" />
  />
+
+Finally, close ticket!
+</p>
+  <img width="468" alt="Screen Shot 2025-02-21 at 8 55 35 AM" src="https://github.com/user-attachments/assets/306f15c2-54f4-46f2-9487-5e1c7acf1106" />
+
 
 
 
