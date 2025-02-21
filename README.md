@@ -5,7 +5,7 @@
 <h1> OsTicket - Ticket Lifecycle Example </h1> 
 
 <h2> Description </h2>
-OsTicket stands for open source ticket. OsTicket is a tool used by businesses and support teams to manage customer service requests. It helps organize and track issues or questions that customers submit through email, web forms, or other channels. Now that we have it installed, we are going to administer it as a help desk analyst. This tutorial will cover the osTicket stages.
+A ticket lifecycle is the process a support request goes through from start to finish. First, a user submits their issue, and it gets assigned to the right team to handle. The team looks into the problem, communicates with the user if needed, and works on solving it. Once the issue is fixed, the ticket is closed, and the user is informed of the resolution. This helps ensure the problem is addressed quickly and effectively. 
 
 <h2>Environments and Technologies Used</h2>
 
