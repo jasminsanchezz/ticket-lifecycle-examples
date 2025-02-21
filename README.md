@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1> OsTicket - Ticket Lifecycle Examples </h1> 
+<h1> OsTicket - Ticket Lifecycle Example </h1> 
 
 <h2> Description </h2>
 OsTicket stands for open source ticket. OsTicket is a tool used by businesses and support teams to manage customer service requests. It helps organize and track issues or questions that customers submit through email, web forms, or other channels. Now that we have it installed, we are going to administer it as a help desk analyst. This tutorial will cover the osTicket stages.
@@ -50,7 +50,7 @@ As an end-user, create the following ticket. Key information collected includes:
 Once the ticket is created, it is assigned to the appropriate department or staff member. (Here it was not  assigned to a specific staff member): 
 <p></p>
 
-<img width="353" alt="Screen Shot 2025-02-20 at 11 01 56 PM" src="https://github.com/user-attachments/assets/6425092c-b732-4b9c-a1b4-cea3f22bed73" />
+<img width="530" alt="Screen Shot 2025-02-20 at 11 10 12 PM" src="https://github.com/user-attachments/assets/671e147c-08ec-4667-b379-67691dc1f632" />
 
 <p>
 Agents can add internal notes for other staff members. Work the ticket to completion:
@@ -61,7 +61,8 @@ Agents can add internal notes for other staff members. Work the ticket to comple
 <p>
 Provide a clear resolution such as instructions, fixes, confirmation of issue resolution. Confirm with the user that the problem is solved. Ticket will be closed. 
 </p>
-<img width="397" alt="Screen Shot 2025-02-20 at 10 57 17 PM" src="https://github.com/user-attachments/assets/774abb06-cc6b-465b-83f9-33bb0eaf9a7f" />
+<<img width="651" alt="Screen Shot 2025-02-20 at 11 09 27 PM" src="https://github.com/user-attachments/assets/568b6543-f7f6-4f76-9d79-ec2fc358909c" />
+ />
 
 
 
